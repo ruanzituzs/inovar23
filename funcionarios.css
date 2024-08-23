@@ -1,0 +1,83 @@
+/* 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* .chart {
+  height: 100vh;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  border: 1px solid #2487ce;
+  border-radius: 1rem;
+  background: #251c35;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.8);
+} */
+
+#formulario-upload-documento {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #251c35;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  color: #fff;
+}
+
+#contenedor-documento {
+  margin: 20px;
+  padding: 20px;
+}
+
+#portfolio-details {
+  background-color: #251c35;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+.Documentos h2 {
+  padding: 20px;
+  margin: auto;
+  color: #fff;
+}
+
+    button {
+    background-color: #fff /* cor de fundo */
+    color: #fff; /* cor do texto */
+    border: none; /* borda */
+    border-radius: 5px; /* arredondamento */
+    padding: 10px 20px; /* tamanho */
+    font-family: Arial, sans-serif; /* fonte */
+    cursor: pointer; /* estilo de cursor */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* sombra */
+  }
+  
+  button:hover {
+    transition: 0.5s;
+    background-color: #2487ce; /* cor de fundo ao passar o mouse */
+    color: #fff; /* cor do texto ao passar o mouse */
+  }
+
+  
+
+  input {
+    background-color: #2487ce; /* cor de fundo */
+    color: #fff; /* cor do texto */
+    border: none; /* borda */
+    border-radius: 5px; /* arredondamento */
+    padding: 10px 20px; /* tamanho */
+    font-family: Arial, sans-serif; /* fonte */
+    cursor: pointer; /* estilo de cursor */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: 0.5s; /* adicionei a transição aqui */
+}
+
+input:hover {
+    background-color: #1a6ead; /* alterei a cor de fundo para um tom mais escuro */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* aumentei o efeito de sombra */
+}
+  
+    
+  
